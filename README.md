@@ -6,7 +6,11 @@
 + [smallbun 单体应用](https://github.com/pingfangushi/smallbun-scaffold)
 + [smallbun 微服务应用](https://github.com/pingfangushi/smallbun-scaffold-cloud)
 
-#交流、反馈、参与贡献
+# 问题
+
+由于项目仓库分的太细，太多，不太方便维护，所以将其他仓库issues功能关闭，在此仓库提交issues反馈。
+
+# 交流、反馈、参与贡献
 
 + E-mail：qinggang.zuo@gmail.com / 2689170096@qq.com
 + Gitee：https://gitee.com/leshalv/smallbun
